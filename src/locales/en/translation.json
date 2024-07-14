@@ -1,0 +1,21 @@
+{
+  "main-page": {
+    "form": {
+      "email": "Email",
+      "number": "Number",
+      "submit": "Submit"
+    },
+    "users": {
+      "email": "Email",
+      "number": "Number"
+    },
+    "not-found": {
+      "header": "404 Not Found",
+      "description": "No users were found or an error occurred."
+    }
+  },
+  "not-found-page": {
+    "header": "The page was not found",
+    "description": "Sorry, the requested page does not exist."
+  }
+}
